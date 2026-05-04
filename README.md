@@ -9,7 +9,7 @@ Ce projet est le résultat d’un travail de refactorisation complet d’une app
 
 ## 🧱 Architecture du projet
 
-![Architecture microservices](./architecture/architecture.png)
+![Architecture](./architecture/architecture.png)
 
 > *(schéma généré ou extrait du livrable — montre la séparation entre Users, Threads, Posts, et l’équilibreur de charge)*
 
